@@ -1,7 +1,6 @@
 # gd-rpc
 gd-rpc 国度分布式基础框架
 
-gd-rpc 分布式调用框架
 
 gd-logger 分布式日志 集成监控中心cat
 
